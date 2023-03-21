@@ -1,6 +1,6 @@
 {
   "name": "@sineverba/unique-keys",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Generate unique keys for an array",
   "main": "dist/index.js",
   "repository": {
